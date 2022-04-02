@@ -1,0 +1,19 @@
+body{
+    height: 500px;
+    background-color: #A3C9A8;
+}
+.title{
+    text-align: center;
+    margin: 30px;
+}
+.content{
+    margin: 10px 50px ;
+}
+.content h4{
+   padding: 10px 0;
+}
+.content pre{
+    font-size: 20px;
+    padding: 20px 0 70px 0;
+    
+}
